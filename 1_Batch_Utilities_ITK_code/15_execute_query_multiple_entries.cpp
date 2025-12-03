@@ -1,0 +1,1 @@
+// exicute query using multiple entries (Name , type)
